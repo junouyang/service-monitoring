@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kr">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/utils/keystorereader/kr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="tp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/commons-math-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/httpclient-4.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/log4j-jcl-2.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/singularity-xml-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/log4j-core-2.11.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/scs-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/slf4j-api-1.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/commons-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/log4j-api-2.11.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/httpclient-cache-4.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/commons-fileupload-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/disruptor-3.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/zt-zip-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/xercesImpl-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/httpcore-nio-4.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/httpcore-4.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/singularity-common-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/dagger-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/httpmime-4.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/commons-io-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/tp/javax.servlet-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

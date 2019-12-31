@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jar-verifier">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/utils/verifier/jar-verifier.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

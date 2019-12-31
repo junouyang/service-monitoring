@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="4.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/jackson-core-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/uaruleanalyzer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/jackson-databind-2.9.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/javaagent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/jackson-annotations-2.9.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

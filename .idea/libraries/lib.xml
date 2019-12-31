@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/singularity-log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/appagent-boot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/common-utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javaagent/4.5/ver4.5.14.27412/lib/appagent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
